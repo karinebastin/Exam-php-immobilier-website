@@ -1,0 +1,18 @@
+/*[class^="col-"] {
+  border: 5px solid blue;
+}
+body {
+  background-color: blueviolet;
+}*/
+
+#bandeau {
+  background: greenyellow;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: -20px;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
+}
